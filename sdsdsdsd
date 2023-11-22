@@ -1,0 +1,18 @@
+[33mcommit a0ae6fd92ac3f6ee5dc3e38ae14382c5c45278bc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: AdolfHeat <makmuller99@gmail.com>
+Date:   Thu Nov 23 04:33:22 2023 +0700
+
+    first commit
+
+[1mdiff --git a/src/containers/manage-informations/categories/dashboard.scss b/src/containers/manage-informations/categories/dashboard.scss[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/src/containers/manage-informations/categories/dashboard.tsx b/src/containers/manage-informations/categories/dashboard.tsx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/src/containers/manage-informations/categories/manage.scss b/src/containers/manage-informations/categories/manage.scss[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/src/containers/manage-informations/categories/manage.tsx b/src/containers/manage-informations/categories/manage.tsx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
